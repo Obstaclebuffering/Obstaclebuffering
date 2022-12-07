@@ -1,3 +1,6 @@
+![killua-hunter-x-hunter](https://user-images.githubusercontent.com/114133634/206101621-897c77e2-769e-4bc6-b078-03a4ea2b1a4b.gif)
+
+
 - 👋 Hi, I’m @Obstaclebuffering or Ren in short
 - 👀 I’m interested in Front-end and Back-end Developing
 - 🌱 I’m currently learning HTML, CSS, Java & Javascript 
